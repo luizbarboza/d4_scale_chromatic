@@ -1,0 +1,10 @@
+dartdoc:
+  categories:
+    "Categorical schemes":
+      markdown: doc/categorical.md
+    "Cyclical schemes":
+      markdown: doc/cyclical.md
+    "Diverging schemes":
+      markdown: doc/diverging.md
+    "Sequential schemes":
+      markdown: doc/sequential.md
